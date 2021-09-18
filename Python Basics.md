@@ -370,7 +370,7 @@ while <condition_1>:
 - can use a counter but must initialize before loop and increment it inside loop
 - may not be able to rewrite a *while* loop using a *for* loop
 
-## Cae/Switch Control Structures
+## Case/Switch Control Structures
 We can use a dictionary of functions to perform case/switch statements.
 This example executes function `a()` when the variable `i` is even and function `b()` when it is odd.
 ```python
@@ -388,7 +388,7 @@ for i in range(20):
 
 case `{0: <function a at 0x7f2c6a385c80>, 1: <function b at 0x7f2c69cfa840>}`
 
-## Interactive Promp
+## Interactive Prompt
 We can use the `_` to bound the return value of the previously executed statement in the interactive prompt.
 ```python
 >>> True
