@@ -1,7 +1,7 @@
 # Python-Fundamental
 Based of MIT OCW and beyond.
 
-[Python Basics](Python Basics.md)
+[Python Basics](https://github.com/hookaz/Python-Fundamentals/blob/main/Python%20Basics.md)
 [x] Introduction to objects
 [x] Math operators
 [x] Variables
