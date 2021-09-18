@@ -1,7 +1,7 @@
 # Python-Fundamental
 Based of MIT OCW and beyond.
 
-[Python Basics](../blob/master/Python Basics)
+[Python Basics](../blob/master/Python Basics.md)
 [x] Introduction to objects
 [x] Math operators
 [x] Variables
