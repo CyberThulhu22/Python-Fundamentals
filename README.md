@@ -49,4 +49,4 @@ Based of MIT OCW and beyond.
 
 - Guess and Check
 - Bisection Cube Root
-- Convergence (TODO)
+- ~~Convergence ~~
