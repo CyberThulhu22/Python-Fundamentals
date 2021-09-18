@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python Basics.md",
+            "file": "Cube Root Algorithms.md",
             "mode": "source"
           }
         }
@@ -100,11 +100,13 @@
   "active": "eaa4c36ed2449b32",
   "lastOpenFiles": [
     "README.md",
-    "Python Basics.md",
-    "Object Oriented Programming.md",
-    "Functions.md",
-    "Debugging.md",
+    "Cube Root Algorithms.md",
+    "Python Strings.md",
+    "Recursion.md",
     "Data Types.md",
-    "Cube Root Algorithms.md"
+    "Debugging.md",
+    "Functions.md",
+    "Object Oriented Programming.md",
+    "Python Basics.md"
   ]
 }
