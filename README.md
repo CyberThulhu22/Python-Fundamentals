@@ -1,5 +1,5 @@
 # Python-Fundamental
-Based of MIT OCW and beyond.
+Based of several sources. Provides a suitable foundation for Python and beyond. 
 
 [Python Basics](https://github.com/hookaz/Python-Fundamentals/blob/main/Python%20Basics.md)
 
