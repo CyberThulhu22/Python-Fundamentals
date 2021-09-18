@@ -37,8 +37,6 @@ Adding strings together concatenates them together.
 `1`,`9123`
 Whole numbers.
 
-
-
 ## Floats
 `3.121234123`
 Real numbers accurate to 16 decimal places
