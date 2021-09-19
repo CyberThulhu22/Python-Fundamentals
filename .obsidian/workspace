@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cube Root Algorithms.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "eaa4c36ed2449b32",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "Updates.md",
+            "mode": "preview"
           }
         }
       }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "isPalindrome ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Updates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eaa4c36ed2449b32",
+  "active": "2afb089795deff0c",
   "lastOpenFiles": [
-    "README.md",
-    "Cube Root Algorithms.md",
-    "Python Strings.md",
+    "Untitled.md",
     "Recursion.md",
     "Data Types.md",
-    "Debugging.md",
     "Functions.md",
+    "Debugging.md",
     "Object Oriented Programming.md",
-    "Python Basics.md"
+    "Python Strings.md",
+    "README.md",
+    "Python Basics.md",
+    "Cube Root Algorithms.md"
   ]
 }
