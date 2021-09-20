@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Updates.md",
+            "file": "Python Basics.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "isPalindrome ",
+                "query": " \"Result is float (python3)\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Updates.md",
+                "file": "Python Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "2afb089795deff0c",
   "lastOpenFiles": [
+    "Python Basics.md",
+    "Data Types.md",
+    "README.md",
     "Untitled.md",
     "Recursion.md",
-    "Data Types.md",
     "Functions.md",
     "Debugging.md",
     "Object Oriented Programming.md",
     "Python Strings.md",
-    "README.md",
-    "Python Basics.md",
     "Cube Root Algorithms.md"
   ]
 }
