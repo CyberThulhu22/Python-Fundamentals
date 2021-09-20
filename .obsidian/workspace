@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python Basics.md",
+            "file": "Cube Root Algorithms.md",
             "mode": "preview"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Basics.md",
+                "file": "Cube Root Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +88,7 @@
   },
   "active": "2afb089795deff0c",
   "lastOpenFiles": [
+    "Cube Root Algorithms.md",
     "Python Basics.md",
     "Data Types.md",
     "README.md",
@@ -97,7 +97,6 @@
     "Functions.md",
     "Debugging.md",
     "Object Oriented Programming.md",
-    "Python Strings.md",
-    "Cube Root Algorithms.md"
+    "Python Strings.md"
   ]
 }
